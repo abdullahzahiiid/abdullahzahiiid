@@ -24,7 +24,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahzahiiid&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/abdullahzahiiid)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zahiiid2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahiiid2031" height="30" width="40" /></a>
+<a href="https://fb.com/zahiiid2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahiiid2031" height="30" width="40" /></a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahzahiiid&show_icons=true&locale=en&layout=compact" alt="abdullahzahiiid" /></p>
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahzahiiid)  
 
