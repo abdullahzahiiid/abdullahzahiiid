@@ -1,6 +1,6 @@
-### Hi there 👋, I am Abdullah Zahid.
+# Hi there 👋, I am Abdullah Zahid.
 #### I am a web developer.
-![I am a web developer.](https://scontent.fcla4-1.fna.fbcdn.net/v/t39.30808-6/475443911_644941031390677_2719462040636287468_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEKVzVAG-_SzPJP7KhC1UQE5_YQE6knxRHn9hATqSfFEZoertFCNF_1Kzme-YdK-goCgdQUsoN_2xtQlsqhuPMK&_nc_ohc=nkFAbHPSMT0Q7kNvgG9ytCy&_nc_zt=23&_nc_ht=scontent.fcla4-1.fna&_nc_gid=AnJMlJZt1otSx_iki1m2XMu&oh=00_AYDM0pb8rOPIRvMHQqGqIiboGCYbE010b-mJYaYSJP-Ucw&oe=67A49F9B)
+
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
